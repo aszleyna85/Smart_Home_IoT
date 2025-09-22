@@ -52,13 +52,13 @@ This setup represents a simplified version of a real-world connected home.
 ---
 
 ## 🖼️ Screenshot (Teaser)
-![Smart Home IoT Topology](./smart-home-iot.png)
+![Smart Home IoT Topology](https://github.com/aszleyna85/Smart_Home_IoT/blob/main/Overview_diagram.png)
 
 ---
 
 ## 📂 Files
 - [`smart-home-iot.pkt`](https://github.com/aszleyna85/Smart_Home_IoT/blob/main/Simple-IoT-Connection-in-my-house.pkt) – Cisco Packet Tracer project file  
-- [`smart-home-iot.png`](./smart-home-iot.png) – Network topology screenshot  
+- [`smart-home-iot.png`](https://github.com/aszleyna85/Smart_Home_IoT/blob/main/Overview_diagram.png) – Network topology screenshot  
 
 ---
 
