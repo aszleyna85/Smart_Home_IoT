@@ -57,7 +57,7 @@ This setup represents a simplified version of a real-world connected home.
 ---
 
 ## 📂 Files
-- [`smart-home-iot.pkt`](./smart-home-iot.pkt) – Cisco Packet Tracer project file  
+- [`smart-home-iot.pkt`](https://github.com/aszleyna85/Smart_Home_IoT/blob/main/Simple-IoT-Connection-in-my-house.pkt) – Cisco Packet Tracer project file  
 - [`smart-home-iot.png`](./smart-home-iot.png) – Network topology screenshot  
 
 ---
